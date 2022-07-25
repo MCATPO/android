@@ -39,7 +39,7 @@ To initialize your local repository, use this command:
 ------------------------------------------------------
 
 ```bash
-   repo init -u git@github.com:MustardChef3/android.git -b twelve
+   repo init -u git@github.com:MustardChef3/android.git -b main
 ```
   
 To Sync the source:
